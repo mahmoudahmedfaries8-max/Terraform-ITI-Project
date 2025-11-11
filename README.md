@@ -81,23 +81,28 @@ terraform-project/
 
 ## Project Screenshots
 
-### the_project
-![the_project](images/the_project.png)
+```
+<img width="1507" height="895" alt="TERAFORM" src="https://github.com/user-attachments/assets/5df2e21e-c037-4d48-8b94-61d943d01344" />
 
-### Workspace dev
-![Workspace](images/workspace%20dev.png)
+![dev](https://github.com/user-attachments/assets/3830b10f-78f4-4bf4-a6b6-f15b847acec9)
 
-### Public Server (Proxy)
-![Public Server](images/public%20server(proxy).png)
 
-### Apache Configuration / Proxy
-![Proxy Configuration](images/Configuration%20of%20the%20proxy%20(Apache).png)
 
-### Apache Return Test
-![Apache Return](images/Apache%20Return.png)
+<img width="1920" height="818" alt="subnets" src="https://github.com/user-attachments/assets/b9a13dbc-d4a2-42a4-b337-15856d011341" />
 
-### Load Balancer DNS
-![ALB DNS](images/load%20Balancer%20DNS.png)
+<img width="1920" height="897" alt="instance" src="https://github.com/user-attachments/assets/987748cf-6769-4dc3-8c29-1f74bd2f2230" />
 
-### S3 State File
-![S3 Bucket](images/S3%20bucket%20containing%20the%20state%20file.png)
+<img width="1500" height="746" alt="image" src="https://github.com/user-
+attachments/assets/9489d1d0-13a3-420e-872f-af1b9e297ff6" />
+
+<img width="1917" height="942" alt="apache" src="https://github.com/user-attachments/assets/3ef1e9f8-b102-4c62-bd9a-cebc07190f02" />
+
+
+
+
+
+
+
+
+
+

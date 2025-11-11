@@ -3,7 +3,7 @@
 ## Prerequisites
 - Terraform installed (v1.5+ recommended)
 - AWS CLI configured with proper credentials
-- Key pair file `key.pem` in the project root
+- Key pair file `fares_key.pem` in the project root
 - Python 3 installed locally if you want to run scripts before deployment
 
 ## Description
@@ -37,7 +37,7 @@ terraform apply tfplan
 ## SSH Access
 - Public EC2:
 ```bash
-ssh -i key.pem ec2-user@<public-ip>
+ssh -i fares_key.pem ec2-user@<public-ip>
 ```
 
 - Private EC2s: Access via bastion host (first public EC2)
